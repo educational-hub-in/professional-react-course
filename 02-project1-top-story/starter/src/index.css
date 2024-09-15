@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "figtree-semibold";
+  src: url("/assets/fonts/static/Figtree-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "figtree-extrabold";
+  src: url("/assets/fonts/static/Figtree-ExtraBold.ttf");
+}
