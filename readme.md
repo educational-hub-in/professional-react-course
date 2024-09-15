@@ -10,12 +10,12 @@ This course aims to provide a comprehensive understanding of React, starting wit
 
 ## **Final version of the projects :**
 
-- [CartCraft](https://daringfireball.net/projects/markdown/) - (Components, JSX, Props)
-- TopStory - (useState, Form Handling, State Management, Event Listeners)
-- CartCraft-Final - (useEffect, Building Logic, Conditional Rendering)
-- FocusApp - (Exercise app to build with react fundamentals)
-- DevFinder - (Custom Hooks, Local Storage)
-- E-Commerce - (Nextjs, Clerk, API Routes, etc...)
+- [CartCraft](https://cart-craft-eduhub.netlify.app) - (Components, JSX, Props) --> ✅
+- [TopStory](https://melodious-salamander-afe202.netlify.app/) - (useState, Form Handling, State Management, Event Listeners) --> ⚠️ API Key Blocked for development
+- [CartCraft](https://cart-craft-eduhub.netlify.app) - (useEffect, Building Logic, Conditional Rendering) --> ✅
+- [FocusApp](https://focus-app-eduhub.netlify.app/) - (Exercise app to build with react fundamentals) --> ✅
+- [DevFinder](https://dev-finder-edu-hub.netlify.app/) - (Custom Hooks, Local Storage) --> ✅
+- [E-Commerce](https://edu-hub-ecommerce.vercel.app/) - (Nextjs, Clerk, API Routes, etc...) --> ✅
 
 ## 1. Introduction to React
 
